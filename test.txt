@@ -1,0 +1,6 @@
+This is a text file that you can edit. If you check GitHub, you can see who made edits to this file.
+
+To see how it works, follow the instructions in the README document.
+
+Let's try adding our names:
+1. David
