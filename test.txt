@@ -4,3 +4,4 @@ To see how it works, follow the instructions in the README document.
 
 Let's try adding our names:
 1. David
+2. Zaharin
